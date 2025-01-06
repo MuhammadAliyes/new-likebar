@@ -190,7 +190,7 @@ h1{
   background: url('cafe.webp') right no-repeat;
   background-repeat: no-repeat;
   background-size: cover;
-  background-attachment:fixed; 
+  background-attachment: scroll;
   height: 85%;
   padding: 0;
 }

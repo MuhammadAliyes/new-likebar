@@ -595,11 +595,12 @@ nav {
 .box-in2{
   display: none;
 }
-
+@supports (-webkit-touch-callout: none) {
 .box img{
   object-fit: cover;
   width: 100%;
   height: 100%;
+}
 }
 
 @media (min-width: 600px) {

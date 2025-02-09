@@ -687,6 +687,7 @@ gap: 1em;
   border-radius: 1em;
   display: flex ;
   gap: 1em;
+  max-height: 300px;	
 }
 
 .colTwo{
@@ -695,6 +696,7 @@ gap: 1em;
   border-radius: 1em;
   display: flex ;
   gap: 1em;
+  max-height: 300px;
 }
 
 .box img{

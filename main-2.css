@@ -632,7 +632,7 @@ nav {
    .row-3{
     flex: 1;
    }
-   .colOne, colTwo, colThree{
+   .colOne, .colTwo, .colThree{
      max-height: 300px;	
    }
  }

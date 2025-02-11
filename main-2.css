@@ -632,7 +632,9 @@ nav {
    .row-3{
     flex: 1;
    }
-
+   .colOne, colTwo, colThree{
+     max-height: 300px;	
+   }
  }
 
  @media (max-width: 600px) {
@@ -664,8 +666,7 @@ nav {
     flex: 2;
     border-radius: 1em;
     display: flex ;
-    gap: 1em;
-    max-height: 300px;	  
+    gap: 1em;  
   }
 
   .box-5{
@@ -688,7 +689,6 @@ gap: 1em;
   border-radius: 1em;
   display: flex ;
   gap: 1em;
-  max-height: 300px;	
 }
 
 .colTwo{
@@ -697,7 +697,6 @@ gap: 1em;
   border-radius: 1em;
   display: flex ;
   gap: 1em;
-  max-height: 300px;
 }
 
 .box img{

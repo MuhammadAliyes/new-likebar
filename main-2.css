@@ -208,7 +208,7 @@ body{
   box-sizing: border-box;
   padding: 10px;
   max-width: 810px;
-  border-raduis: 18px;
+  border-radius: 18px;
 }
 
 
@@ -220,7 +220,6 @@ body{
   padding: 10px;
   max-width: 810px;
   box-shadow: black;
-  border-raduis: 18px;
 }
 
 .slider2{

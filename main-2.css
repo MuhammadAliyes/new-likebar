@@ -208,6 +208,7 @@ body{
   box-sizing: border-box;
   padding: 10px;
   max-width: 810px;
+  border-raduis: 18px;
 }
 
 
@@ -584,7 +585,7 @@ nav {
 }
 
 .box-5img, .pic-desktop, .box-gone2 img {
-  aspect-ratio: 1/1.61;
+  aspect-ratio: 1/1.62;
 }
 /*.box-1 img, .box-2 img{
   aspect-ratio: 1/1.01;
@@ -593,7 +594,7 @@ nav {
 
 
 .box-goneimg, .box-2-1 img{
-  aspect-ratio: 1/0.79;
+  aspect-ratio: 1/0.81;
 }
 
 
@@ -646,7 +647,7 @@ nav {
 
  @media (min-width: 780px) {
   .box-in img, .box-in1 img{
-    aspect-ratio: 1/0.77;
+    aspect-ratio: 1/0.78;
 }}
 
  @media (max-width: 900px) {

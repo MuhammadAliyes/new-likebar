@@ -220,6 +220,7 @@ body{
   padding: 10px;
   max-width: 810px;
   box-shadow: black;
+  border-raduis: 18px;
 }
 
 .slider2{

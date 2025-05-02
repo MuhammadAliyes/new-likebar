@@ -585,7 +585,7 @@ nav {
 }
 
 .box-5img, .pic-desktop, .box-gone2 img {
-  aspect-ratio: 1/1.62;
+  aspect-ratio: 1/1.63;
 }
 /*.box-1 img, .box-2 img{
   aspect-ratio: 1/1.01;
@@ -662,7 +662,7 @@ nav {
   @media (min-width: 900px) {
   
      .box-1 img,.box-2 img {
-      aspect-ratio: 1/0.99;
+      aspect-ratio: 1/1;
       }
     }
 
